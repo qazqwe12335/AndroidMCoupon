@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">請安心食用</string>
+    <string name="get_coupon">兌換優惠</string>
+    <string name="toolbar_right_btn">搜尋附近餐廳</string>
+    <string name="toolbar_title">優惠券</string>
+
+    <string name="dialog_title">確認兌換優惠</string>
+    <string name="dialog_message">請確認您已在麥當勞櫃台，點選「立即兌換」後，需於兩分鐘內出示給結帳人員</string>
+    <string name="dialog_ok">立即兌換</string>
+    <string name="dialog_cancel">暫不兌換</string>
+
+    <string name="random_btn">選擇障礙按鈕</string>
+
+    <string-array name="mc_food_array">
+        <!--橘色-->
+        <item>鷄塊鬆餅大早餐單點特價$85</item>
+        <item>1元驚喜 - 蛋捲冰淇淋</item>
+        <item>10元驚喜 - 小薯</item>
+        <item>10元驚喜 - 麥香魚</item>
+        <item>10元驚喜 - 滿福堡</item>
+        <item>10元驚喜 - 豬肉滿福寶</item>
+        <item>10元驚喜 - 法式芥末香鷄堡</item>
+        <!--藍色-->
+        <item>單點買一送一 - 薯餅</item>
+        <item>單點買一送一 - 大薯</item>
+        <item>單點買一送一 - 四塊麥克鷄塊</item>
+        <item>單點買一送一 - 冰炫風</item>
+        <item>單點買一送一 - 大杯可樂</item>
+        <item>單點買一送一 - 千島黃金蝦堡</item>
+        <item>單點買一送一 - 大麥克</item>
+        <item>單點買一送一 - 勁辣鷄腿堡</item>
+        <item>單點買一送一 - 嫩煎鷄腿堡</item>
+        <!--紫色-->
+        <item>加1元多1包 - 單點大薯</item>
+        <item>加1元多1份 - 單點四塊麥克鷄塊</item>
+        <item>加1元多1份 - 單點冰炫風(限OREO)</item>
+        <item>加1元多1件 - 大蛋捲冰淇淋單點</item>
+        <item>加10元多1份 - 單點勁辣鷄腿堡</item>
+        <item>加10元多1份 - 單點雙層牛肉吉士堡</item>
+        <!--綠色-->
+        <item>買$40大杯冷飲 - 送大麥克</item>
+        <item>買$40大杯可樂 - 送勁辣雞腿堡</item>
+        <item>買任一超值全餐送 - 蛋捲冰淇淋</item>
+        <item>買任一超值全餐送 - 小杯玉米湯</item>
+        <item>買任一超值全餐送 - 4塊麥克鷄塊</item>
+        <item>買任一超值全餐送 - 麥香鷄</item>
+        <item>買任一超值全餐送 - 千島黃金蝦堡</item>
+        <item>買任一超值全餐送 - 勁辣鷄腿堡</item>
+
+        <item>極選饕客樂 - 安格斯牛肉堡 + 可樂 $109</item>
+    </string-array>
+
+    <string name="mc_donalds_app">mc_donalds_app</string>
+    <string name="notice_apply">mc_donalds_notice_apply</string>
+</resources>
